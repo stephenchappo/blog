@@ -3,4 +3,5 @@ title: website created
 date: 2020-04-26
 img: 1.jpg
 description: Created in the middle of a global pandemic whilst sheltering in
-  place.
+  place.  Site is built on Hugo, currently using hugo-creative-theme and
+  hosted on github pages.

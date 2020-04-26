@@ -33,7 +33,7 @@ enableRobotsTXT = true
 	# Hero section
 	[params.hero]
 		slogan     = "scon.stdout"
-		subtitle   = "Musings from the melon."
+		subtitle   = "Garbage collection."
 		buttonText = "More"
 
 	# About section
