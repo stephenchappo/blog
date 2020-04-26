@@ -57,11 +57,11 @@ enableRobotsTXT = true
 		description = "Got something on your mind?"
 		email = "scon.and.on.and.on@gmail.com"
 
-	# Google Maps section
-	[params.location]
-	 	latitude  = "37.752403"
-	 	longitude = "-122.4197339"
-	 	maps_api_key = "AIzaSyAWpZDvi5YkLUmxv2JcXxrNglkhH5WZkQw"
+#	# Google Maps section
+#	[params.location]
+#	 	latitude  = "37.752403"
+#	 	longitude = "-122.4197339"
+#	 	maps_api_key = "AIzaSyAWpZDvi5YkLUmxv2JcXxrNglkhH5WZkQw"
 
 
 #[params]
