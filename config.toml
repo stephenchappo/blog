@@ -108,7 +108,7 @@ enableRobotsTXT = true
 	[params.location]
 	 	latitude  = "37.752403"
 	 	longitude = "-122.4197339"
-	# 	maps_api_key = ""
+	 	maps_api_key = "AIzaSyAWpZDvi5YkLUmxv2JcXxrNglkhH5WZkQw"
 
 
 #[params]
