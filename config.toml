@@ -64,29 +64,29 @@ enableRobotsTXT = true
 		buttonText  = "Get started!"
 
 
-	# Service section
-	[params.services]
-		headline = "At your service"
-
-        [[params.services.list]]
-            icon = "fa-diamond"
-            title = "Sturdy Templates"
-            description = "Our templates are updated regularly so they don't break."
-
-        [[params.services.list]]
-			icon = "fa-paper-plane"
-			title = "Ready to Ship"
-			description = "You can use this theme as is, or you can make changes!"
-
-		[[params.services.list]]
-            icon = "fa-newspaper-o"
-            title = "Up to Date"
-            description = "We update dependencies to keep things fresh."
-
-        [[params.services.list]]
-            icon = "fa-heart"
-            title = "Made with Love"
-            description = "You have to make your websites with love these days!"
+#	# Service section
+#	[params.services]
+#		headline = "At your service"
+#
+#        [[params.services.list]]
+#            icon = "fa-diamond"
+#            title = "Sturdy Templates"
+#            description = "Our templates are updated regularly so they don't break."
+#
+#        [[params.services.list]]
+#			icon = "fa-paper-plane"
+#			title = "Ready to Ship"
+#			description = "You can use this theme as is, or you can make changes!"
+#
+#		[[params.services.list]]
+#            icon = "fa-newspaper-o"
+#            title = "Up to Date"
+#            description = "We update dependencies to keep things fresh."
+#
+#        [[params.services.list]]
+#            icon = "fa-heart"
+#            title = "Made with Love"
+#            description = "You have to make your websites with love these days!"
 
 
     # Portfolio modals
