@@ -2,7 +2,7 @@ title = "scon.stdout"
 baseURL = "https://stephenchappo.github.io/"
 languageCode = "en-us"
 theme = "hugo-creative-theme"
-
+disableKinds = ["taxonomy", "taxonomyTerm"]
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
