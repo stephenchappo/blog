@@ -31,8 +31,8 @@ enableRobotsTXT = true
 
 	# To provide some metadata for search engines feel free to add some
 	# information about you and your website.
-	name = "Your name"
-	description = "Your description"
+	name = "Stephen Chapman"
+	description = "Personal Blog"
 
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
@@ -40,7 +40,7 @@ enableRobotsTXT = true
 
 	# Navigation
 	[params.navigation]
-		brand = "Hugo Creative Theme"
+		brand = "scon.stdout"
 
 		[params.navigation.links]
 			about     = "About"
@@ -51,16 +51,16 @@ enableRobotsTXT = true
 
 	# Hero section
 	[params.hero]
-		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+		
 		slogan     = "scon.stdout"
 		subtitle   = "Musings from the melon."
-		buttonText = "This working?"
+		buttonText = "More"
 
 
 	# About section
 	[params.about]
-		headline    = "We've got what you need!"
-		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
+		headline    = "What is this?"
+		description = "Somewhere for me to dump all of the various things I'm up to and keep a running record."
 		buttonText  = "Get started!"
 
 
@@ -96,25 +96,18 @@ enableRobotsTXT = true
         category = "Category"
         buttonText = "Close"
 
-    # Aside section
-	[params.aside]
-		headline = "Get the Creative Theme for Hugo"
 
-		[params.aside.button]
-			text = "Download now"
-			link = "//github.com/digitalcraftsman/hugo-creative-theme"
 
 	# Contact section
 	[params.contact]
-		headline = "Let's Get In Touch!"
-		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
-		phone = "123-456-6789"
-		email = "feedback@startbootstrap.com"
+		headline = "Contact Me"
+		description = "Got something on your mind?"
+		email = "scon.and.on.and.on@gmail.com"
 
 	# Google Maps section
-	# [params.location]
-	# 	latitude  = "34.007850"
-	# 	longitude = "-118.499305"
+	[params.location]
+	 	latitude  = "37.752403"
+	 	longitude = "-122.4197339"
 	# 	maps_api_key = ""
 
 
@@ -122,10 +115,10 @@ enableRobotsTXT = true
 #  favicon = ""
 #  description = "Musings from the melon."
 #  facebook = ""
-#  twitter = "https://twitter.com/Stephen17485472"
-#  instagram = "https://www.instagram.com/sc0nus/"
-#  youtube = "https://www.youtube.com/user/sconist"
-#  github = "https://github.com/stephenchappo"
+  twitter = "https://twitter.com/Stephen17485472"
+  instagram = "https://www.instagram.com/sc0nus/"
+  youtube = "https://www.youtube.com/user/sconist"
+  github = "https://github.com/stephenchappo"
 #  gitlab = ""
 #  linkedin = ""
 #  mastodon = ""
