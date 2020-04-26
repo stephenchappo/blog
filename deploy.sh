@@ -6,7 +6,7 @@
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
 # Build the project.
-hugo -t ananke # if using a theme, replace with `hugo -t <YOURTHEME>`
+hugo -t hugo-creative-theme # if using a theme, replace with `hugo -t <YOURTHEME>`
 sleep 3
 # Go To Public folder
 cd public
