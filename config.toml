@@ -6,7 +6,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 10
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -17,26 +17,11 @@ enableRobotsTXT = true
 
 [params]
 
-	# You can use Markdown syntax for urls [text](//url.to/source) for
-	# most longer texts.
-
-	# All icons using Fontawesome's icon font. Look at http://fontawesome.io/icons/
-	# for more icons. The icons are represented by their corresponding
-	# CSS class.
-
-	# All projects of the portfolio are defined in their own files.
-	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
-	# folder into the 'data' directory at the root of this Hugo site.
-	# For more information take a look at the README.
-
-	# To provide some metadata for search engines feel free to add some
-	# information about you and your website.
 	name = "Stephen Chapman"
 	description = "Personal Blog"
 
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
-
 
 	# Navigation
 	[params.navigation]
@@ -44,50 +29,20 @@ enableRobotsTXT = true
 
 		[params.navigation.links]
 			about     = "About"
-			services  = "Services"
-			portfolio = "Portfolio"
+			portfolio = "Posts"
 			contact   = "Contact"
-
 
 	# Hero section
 	[params.hero]
-		
 		slogan     = "scon.stdout"
 		subtitle   = "Musings from the melon."
 		buttonText = "More"
 
-
 	# About section
 	[params.about]
 		headline    = "What is this?"
-		description = "Somewhere for me to dump all of the various things I'm up to and keep a running record."
+		description = "Somewhere for me to dump various things I'm up to and keep a running record."
 		buttonText  = "Get started!"
-
-
-#	# Service section
-#	[params.services]
-#		headline = "At your service"
-#
-#        [[params.services.list]]
-#            icon = "fa-diamond"
-#            title = "Sturdy Templates"
-#            description = "Our templates are updated regularly so they don't break."
-#
-#        [[params.services.list]]
-#			icon = "fa-paper-plane"
-#			title = "Ready to Ship"
-#			description = "You can use this theme as is, or you can make changes!"
-#
-#		[[params.services.list]]
-#            icon = "fa-newspaper-o"
-#            title = "Up to Date"
-#            description = "We update dependencies to keep things fresh."
-#
-#        [[params.services.list]]
-#            icon = "fa-heart"
-#            title = "Made with Love"
-#            description = "You have to make your websites with love these days!"
-
 
     # Portfolio modals
 	[params.portfolio.modal]
@@ -95,8 +50,6 @@ enableRobotsTXT = true
         date = "Date"
         category = "Category"
         buttonText = "Close"
-
-
 
 	# Contact section
 	[params.contact]
