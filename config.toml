@@ -16,10 +16,8 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-
 	name = "Stephen Chapman"
 	description = "Personal Blog"
-
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
 
@@ -56,28 +54,3 @@ enableRobotsTXT = true
 		headline = "Contact Me"
 		description = "Got something on your mind?"
 		email = "scon.and.on.and.on@gmail.com"
-
-#	# Google Maps section
-#	[params.location]
-#	 	latitude  = "37.752403"
-#	 	longitude = "-122.4197339"
-#	 	maps_api_key = "AIzaSyAWpZDvi5YkLUmxv2JcXxrNglkhH5WZkQw"
-
-
-#[params]
-#  favicon = ""
-#  description = "Musings from the melon."
-#  facebook = ""
-  twitter = "https://twitter.com/Stephen17485472"
-  instagram = "https://www.instagram.com/sc0nus/"
-  youtube = "https://www.youtube.com/user/sconist"
-  github = "https://github.com/stephenchappo"
-#  gitlab = ""
-#  linkedin = ""
-#  mastodon = ""
-#  slack = ""
-#  stackoverflow = ""
-#  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-#  background_color_class = "bg-black"
-#  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
-#  recent_posts_number = 2
