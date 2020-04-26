@@ -1,7 +1,6 @@
 modalID: 1
-title: website created
+title: site online
 date: 2020-04-26
 img: 1.jpg
-description: Created in the middle of a global pandemic whilst sheltering in
-  place.  Site is built on Hugo, currently using hugo-creative-theme and
-  hosted on github pages.
+description: Created whilst sheltering in place.  Under the hood Hugo,
+  hugo-creative-theme, github pages.
